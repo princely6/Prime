@@ -1,4 +1,4 @@
 # Prime
-## Editing the files
+## PrimeSynergy
 
-Its a mark down file in this respiratory.
+This is the name of my company
